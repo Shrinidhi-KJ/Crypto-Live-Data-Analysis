@@ -11,7 +11,7 @@ from openpyxl.utils.dataframe import dataframe_to_rows
 
 
 # Personal Path For OneDrive Folder
-excel_file_path = r'C:\Users\Shrinidhi KJ\OneDrive\crypto_live_data.xlsx'
+excel_file_path = r'Your path to the OneDrive Folder'
 
 # Fetching Live Cryptocurrency Data
 def fetch_crypto_data():
